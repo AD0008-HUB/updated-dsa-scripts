@@ -12,3 +12,4 @@ Add the DSA scripts to help the community learn. Can be in different languages, 
 - [DSA by Luv in C++](https://www.youtube.com/watch?v=OMcxQ3IY-qc)
 - [InterviewBit](https://www.interviewbit.com/)
 - [Programmiz](https://www.programiz.com/)
+- [Algoexpert](https://www.algoexpert.io/)
