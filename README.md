@@ -13,4 +13,6 @@ Add the DSA scripts to help the community learn. Can be in different languages, 
 - [InterviewBit](https://www.interviewbit.com/)
 - [Programmiz](https://www.programiz.com/)
 - [Algoexpert](https://www.algoexpert.io/)
--[Interview Bit](https://www.interviewbit.com/data-structure-interview-questions/)
+- [CodeWars](https://www.codewars.com/)
+- [Interview Bit](https://www.interviewbit.com/data-structure-interview-questions/)
+
