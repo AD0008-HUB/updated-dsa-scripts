@@ -18,3 +18,4 @@ Add the DSA scripts to help the community learn. Can be in different languages, 
 - [Grind75- Collection of Best LC Questions with Tracker](https://www.techinterviewhandbook.org/grind75)
 - [javatpoint dsa ](https://www.javatpoint.com/data-structure-tutorial)
 - [Codechef](https://www.codechef.com/)
+-[Crio](https://www.crio.do/blog/why-learn-data-structures-and-algorithms/)
